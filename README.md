@@ -21,6 +21,9 @@ Users can input the city name, retrieve real-time weather data, and see an anima
 * [Material-UI](https://mui.com/) as a CSS framework I have opted for
 * [LottieFiles](https://lottiefiles.com/) for the JSON Animation
 
+## API
+API documentation [OpenWeatherApp](https://openweathermap.org/api)
+
 ## Installation
 First of all, you need Node.js installed.
 If you don't have it, you can download it here:
