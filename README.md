@@ -16,8 +16,10 @@ Users can input the city name, retrieve real-time weather data, and see an anima
 ## What i used
 * [React](https://react.dev/)
 * [Node.js](https://nodejs.org/it)
-* [Material-UI](https://mui.com/) as a CSS framework I have opted for.
-* [Redux](https://redux.js.org/) for state management.
+* [Axios](https://axios-http.com/) for the API requests
+* [Redux](https://redux.js.org/) for state management
+* [Material-UI](https://mui.com/) as a CSS framework I have opted for
+* [LottieFiles](https://lottiefiles.com/) for the JSON Animation
 
 ## Installation
 First of all, you need Node.js installed.
