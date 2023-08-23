@@ -1,4 +1,4 @@
-# Task Masters ⛅  
+# Weather App ⛅  
 WeatherApp is a web application that allows users to view weather forecasts for a specific city. The app uses React, Material-UI, and Redux for state management.
 
 
