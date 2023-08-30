@@ -1,3 +1,7 @@
+<meta name="title" content="Weather App">
+<meta name="description" content="WeatherApp is a web application that allows users to view weather forecasts for a specific city.">
+<meta name="keyword" content="WeatherApp, Weather App, Forecasts, Weather App Github, Github, R3ddy95, R3ddy95 Github, React Weather App">
+
 # Weather App ⛅  
 WeatherApp is a web application that allows users to view weather forecasts for a specific city. The app uses React, Material-UI, and Redux for state management.
 
