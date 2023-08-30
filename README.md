@@ -37,10 +37,18 @@ git clone https://github.com/R3ddy95/WeatherApp.git
 ```
 
 ### 2 - Install the dependencies
-`npm install`
+```bash
+
+npm install
+
+```
 
 ### 3 - Build it!
-`npm run build`
+```bash
+
+npm run build
+
+```
 
 ### 4 - Open in the browser
 `npm start` and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
