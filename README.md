@@ -30,7 +30,11 @@ If you don't have it, you can download it here:
 [Node.js](https://nodejs.org/it/download/)<br>
 
 ### 1 - Clone the repository
-```git clone https://github.com/R3ddy95/WeatherApp.git```
+```bash
+
+git clone https://github.com/R3ddy95/WeatherApp.git
+
+```
 
 ### 2 - Install the dependencies
 `npm install`
