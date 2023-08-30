@@ -51,7 +51,12 @@ npm run build
 ```
 
 ### 4 - Open in the browser
-`npm start` and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+
+npm start
+
+```
+ and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ##  Try it!
 Elsewhere, you can simply try it here:
